@@ -1,2 +1,2 @@
 # BasicHomeSecurityDevice
-Using Arduino and Motion Sensors
+Home Security device using Arduino and Motion Sensors
